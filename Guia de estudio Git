@@ -1,0 +1,20 @@
+#####A CONTINUACÓN UN PEQUEÑO GLOSARIO SOBRE GitHub:
+	Probablemente la única red social útil que existe, permite trabajar en paralelo en proyectos en un entorno seguro.
+	
+	Que es un repository:
+		Es el contenedor del proyecto que contiene archivos y carpetas.
+	Que es una branch:
+		Una versión paralela de tu repositorio, la rama default se llama "main/master".
+	Que es un profile README:
+		Una sección "acerca de mi" en el perfil de GiutHub, donde compartes información con la comunidad de GitHub.
+	Que es un commit:
+		Un conjunto de cambios en los archivos y o carpetas del proyecto en la branch.
+		Es solo una propuesta de cambio.
+	Que es una pull request:
+		Es la base de la colaboración, le muestra tu branch a otras personas para que la acepten, rechacen, o sugieran cambios adicionales, es una comparación lado a lado.
+		Es una propuesta de aplicar los cambios de tu branch al main branch 
+	Que es merge:
+		Añade los cambios de tu pull request branch a la main branch.
+	Que es un issue:
+		Termino de computación, se refiere a la unidad de trabajo para realizar una mejora, como arreglar fallos, discutir nuevas características, atender una queja, etc.
+		(significa problema-disputa-emitir).
